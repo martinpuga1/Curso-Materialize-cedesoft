@@ -1,0 +1,45 @@
+nav ul a {
+    color:#023364;
+    }
+
+nav {
+    background-color: #fafafa;
+    height: 85px;
+}
+#logo-container img{
+    width: 80px;
+}
+.sidenav-trigger{
+    color:aqua;
+}
+.parallax-container{
+    min-height: 500px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255,255,255,.9);
+}
+.parallax {
+    filter: grayscale(70%);
+}
+.icon-block{
+    padding: 0 15px;
+}
+    
+.icon-block .material-icons{
+    font-size: inherit;
+}
+.material-icons{
+    color: #20815c;
+}
+p {
+    line-height: 2rem;
+}
+footer a {
+    color: #e0e0e0;
+    font-size: 1rem;
+}
+.page-footer{
+    background-color: #023364;
+}
+
+                        
